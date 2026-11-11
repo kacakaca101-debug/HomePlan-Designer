@@ -1,0 +1,67 @@
+{
+  "name": "HomePlan Designer",
+  "short_name": "HomePlan",
+  "description": "Návrh rodinného domu: půdorys, střecha, exteriér, 3D prohlídka, rozpočet a harmonogram stavby.",
+  "lang": "cs",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f7f9",
+  "theme_color": "#1f5fbf",
+  "categories": [
+    "productivity",
+    "utilities",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/3d-dum.png",
+      "sizes": "1000x496",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "3D obhlídka domu se solárními panely"
+    },
+    {
+      "src": "screenshots/3d-exterier.png",
+      "sizes": "1000x496",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Exteriér: plot, brána, příjezd a carport"
+    }
+  ]
+}
